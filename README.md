@@ -1,10 +1,16 @@
 # The whale has arrived!
-![Gameunits](http://getcloudify.org/img/docker.png "Gameunits")
+-------------------
+![Gameunits](https://raw.githubusercontent.com/gameunits/docker-gameunits-daemon/master/docker.png "Gameunits")
 
-Build Gameunits powered applications!
+#Build Gameunits powered applications!
+-------------------
 
-Build it:
+###Build it:
+```
 sudo docker build -t docker-gameunits-daemon.
+```
 
-Run it:
+###Run it:
+```
 sudo docker run -i -t docker-gameunits-daemon /bin/bash
+```
